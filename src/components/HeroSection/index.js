@@ -3,7 +3,7 @@ import HeroBgAnimation from '../HeroBgAnimation'
 import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle, ResumeButton } from './HeroStyle'
 import { Bio } from "../../utils/data/constants";
 import Typewriter from 'typewriter-effect';
-import HeroImg from "../../images/io (1).jpg"
+import HeroImg from "../../images/p6.png"
 
 const HeroSection = () => {
   return (

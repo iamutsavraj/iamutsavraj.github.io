@@ -221,7 +221,7 @@ export const Bio = {
       title: "Diversion & Inculsion Dashboard ",
       date: "Jan 2024",
       description:
-        "Analyzed employee data to understand the factors that contribute to employee attrition and identifying the root cause that can help in retention effort.",
+        "Completed this project during the PwC Power BI Virtual Case Experience on Forage. Created visualizations to represent HR data, particularly focusing on gender-related KPIs. dentify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level. Defined proper KPIs: # of men, # of women, # of leavers% employees promoted (FY21), % of women promoted, % of hires men, % of hires women, % turnover, #Average performance rating: men, #Average Performance rating: women",
       image:dij,
       tags: [
         "Power BI Desktop",
