@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.9d3af507.js",
+    "main.js": "/static/js/main.ba0334f3.js",
     "static/media/unempj.jpg": "/static/media/unempj.5033060d3d7e8496840e.jpg",
     "static/media/pmj.jpg": "/static/media/pmj.18778e3ca48e0b4b90ef.jpg",
     "static/media/pmp.pdf": "/static/media/pmp.af01e65eafa9233622ea.pdf",
@@ -27,7 +27,6 @@
     "static/media/io (1).jpg": "/static/media/io (1).8689febb1aa938e77931.jpg",
     "static/media/msw.png": "/static/media/msw.5d89667ea9183c3c93e0.png",
     "static/media/oracle.png": "/static/media/oracle.dc6956d43374304c0615.png",
-    "static/media/gs.png": "/static/media/gs.0a79be10dd4b002b9425.png",
     "static/media/psql.png": "/static/media/psql.52d31cc1fd8306d5ff52.png",
     "static/media/bi.png": "/static/media/bi.0251f3673b9ff138eca3.png",
     "static/media/Hnb.jpg": "/static/media/Hnb.3ff4ad827533b4ba316f.jpg",
@@ -35,13 +34,14 @@
     "static/media/pyn.png": "/static/media/pyn.e2ed94968b6224c7014f.png",
     "static/media/msex.png": "/static/media/msex.b57a1232955071e64e25.png",
     "static/media/MeriSkilllogo.jpg": "/static/media/MeriSkilllogo.76d6cb45b8ddea1c6311.jpg",
+    "static/media/gsf.svg": "/static/media/gsf.45e0c91809a1117280f6e5ccc6c89959.svg",
     "static/media/sqlnn.svg": "/static/media/sqlnn.de1f441d77fea35c2d6e1338f3cc540a.svg",
     "index.html": "/index.html",
     "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.9d3af507.js.map": "/static/js/main.9d3af507.js.map"
+    "main.ba0334f3.js.map": "/static/js/main.ba0334f3.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.9d3af507.js"
+    "static/js/main.ba0334f3.js"
   ]
 }
