@@ -126,7 +126,7 @@ const Projects = ({openModal,setOpenModal}) => {
           <Wrapper>
             <Title>Projects</Title>
             <Desc>
-              I have worked on several porject durning my internships and job simularions. Here are some of my projects.
+              I have worked on several porject durning my internships and virtual job simulations. Here are some of my projects.
             </Desc>
             <ToggleGroup>
             {toggle === 'all' ?
