@@ -57,7 +57,7 @@ const Desc = styled.div`
 
 const ContactForm = styled.form`
   width: 60%;
-  max-width: 510px;
+  max-width: 600px;
   display: flex;
   flex-direction: column;
   background-color: ${({ theme }) => theme.card};
@@ -151,9 +151,9 @@ const Contact = () => {
     <Container id="contact">
       <Wrapper>
         <Title>Contact</Title>
-        <Desc>Feel free to reach out to me for any questions or opportunities!</Desc>
+        <Desc>Feel free to connect (📧 rutsav333@gmail.com)</Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
-          <ContactTitle>Contact Me🙇‍♂️</ContactTitle>
+          <ContactTitle>Contact Me 🙇 </ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
           <ContactInput placeholder="Your Name" name="from_name" />
           <ContactInput placeholder="Subject" name="subject" />

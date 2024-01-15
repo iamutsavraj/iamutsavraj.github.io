@@ -1,9 +1,10 @@
 import styled from 'styled-components';
 import React from 'react';
-import TwitterIcon from '@mui/icons-material/Twitter';
+import TwitterIcon from '@mui/icons-material/WhatsApp';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import { Bio } from '../../utils/data/constants';
+import WhatsAppIcon from '@mui/icons-material/Twitter';
 
 const FooterContainer = styled.div`
   width: 100%;
@@ -99,6 +100,7 @@ function Footer() {
         <SocialMediaIcons>
         <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.gmail} target="display"><WhatsAppIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>

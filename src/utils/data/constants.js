@@ -51,8 +51,9 @@ export const Bio = {
     resume:
       "https://drive.google.com/file/d/1XSn5vRGKRR3T_9fUX3Iy9zeQ5fRKL33I/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/iamutsavraj/",
-    twitter: "https://twitter.com/iamutsavraj",
+    twitter: "https://wa.me/+918859670327",
     insta: "https://www.instagram.com/iamutsavraj/",
+    gmail: "https://twitter.com/iamutsavraj",
   };
   
   export const skills = [
