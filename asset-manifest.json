@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.ba0334f3.js",
+    "main.js": "/static/js/main.b14646bd.js",
+    "static/media/p6.png": "/static/media/p6.4c4db707a858bf3b648b.png",
     "static/media/unempj.jpg": "/static/media/unempj.5033060d3d7e8496840e.jpg",
     "static/media/pmj.jpg": "/static/media/pmj.18778e3ca48e0b4b90ef.jpg",
     "static/media/pmp.pdf": "/static/media/pmp.af01e65eafa9233622ea.pdf",
@@ -24,7 +25,6 @@
     "static/media/haj.jpg": "/static/media/haj.59e50cbaa7d5aa7b8ff1.jpg",
     "static/media/callcentrep.pdf": "/static/media/callcentrep.22948293bc3adcea746b.pdf",
     "static/media/sdp.pdf": "/static/media/sdp.a22f30dae302e5f66301.pdf",
-    "static/media/io (1).jpg": "/static/media/io (1).8689febb1aa938e77931.jpg",
     "static/media/msw.png": "/static/media/msw.5d89667ea9183c3c93e0.png",
     "static/media/oracle.png": "/static/media/oracle.dc6956d43374304c0615.png",
     "static/media/psql.png": "/static/media/psql.52d31cc1fd8306d5ff52.png",
@@ -38,10 +38,10 @@
     "static/media/sqlnn.svg": "/static/media/sqlnn.de1f441d77fea35c2d6e1338f3cc540a.svg",
     "index.html": "/index.html",
     "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.ba0334f3.js.map": "/static/js/main.ba0334f3.js.map"
+    "main.b14646bd.js.map": "/static/js/main.b14646bd.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.ba0334f3.js"
+    "static/js/main.b14646bd.js"
   ]
 }
