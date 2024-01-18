@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.b14646bd.js",
+    "main.js": "/static/js/main.7e6fdba6.js",
     "static/media/p6.png": "/static/media/p6.4c4db707a858bf3b648b.png",
     "static/media/unempj.jpg": "/static/media/unempj.5033060d3d7e8496840e.jpg",
     "static/media/pmj.jpg": "/static/media/pmj.18778e3ca48e0b4b90ef.jpg",
@@ -25,23 +25,26 @@
     "static/media/haj.jpg": "/static/media/haj.59e50cbaa7d5aa7b8ff1.jpg",
     "static/media/callcentrep.pdf": "/static/media/callcentrep.22948293bc3adcea746b.pdf",
     "static/media/sdp.pdf": "/static/media/sdp.a22f30dae302e5f66301.pdf",
+    "static/media/netlify.png": "/static/media/netlify.603ef81c872f9df8c343.png",
     "static/media/msw.png": "/static/media/msw.5d89667ea9183c3c93e0.png",
     "static/media/oracle.png": "/static/media/oracle.dc6956d43374304c0615.png",
     "static/media/psql.png": "/static/media/psql.52d31cc1fd8306d5ff52.png",
     "static/media/bi.png": "/static/media/bi.0251f3673b9ff138eca3.png",
     "static/media/Hnb.jpg": "/static/media/Hnb.3ff4ad827533b4ba316f.jpg",
+    "static/media/chatgpt.png": "/static/media/chatgpt.1be366d140b5dab056d6.png",
     "static/media/mspp.png": "/static/media/mspp.1b09468a2f07fe91ca00.png",
     "static/media/pyn.png": "/static/media/pyn.e2ed94968b6224c7014f.png",
+    "static/media/mssql.png": "/static/media/mssql.21e6d760d85e7bd268f8.png",
     "static/media/msex.png": "/static/media/msex.b57a1232955071e64e25.png",
     "static/media/MeriSkilllogo.jpg": "/static/media/MeriSkilllogo.76d6cb45b8ddea1c6311.jpg",
-    "static/media/gsf.svg": "/static/media/gsf.45e0c91809a1117280f6e5ccc6c89959.svg",
     "static/media/sqlnn.svg": "/static/media/sqlnn.de1f441d77fea35c2d6e1338f3cc540a.svg",
+    "static/media/vscode.svg": "/static/media/vscode.5f6c87ee85944898b6682f2a2a13df91.svg",
     "index.html": "/index.html",
     "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.b14646bd.js.map": "/static/js/main.b14646bd.js.map"
+    "main.7e6fdba6.js.map": "/static/js/main.7e6fdba6.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.b14646bd.js"
+    "static/js/main.7e6fdba6.js"
   ]
 }
