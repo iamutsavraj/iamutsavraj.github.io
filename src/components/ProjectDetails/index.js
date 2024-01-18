@@ -228,7 +228,7 @@ const ProjectDetails = ({ openModal, setOpenModal }) => {
                     <ButtonGroup>
                     <Button href={project?.pdf} target='new'>View PDF</Button>
                         <Button href={project?.github} target='new'>View Code</Button>
-                        <Button href={project?.pre} target='new'>Presentation</Button>
+                        <Button href={project?.pre} target='new'>Live Dashboard</Button>
                     </ButtonGroup>
                 </Wrapper>
             </Container>

@@ -30,12 +30,15 @@ import pyn from "../../images/pyn.png"
 import psql from "../../images/psql.png"
 import msex from "../../images/msex.png"
 import msw from "../../images/msw.png"
-import gs from "../../images/gsf.svg"
+import gs from "../../images/mssql.png"
 import bi from "../../images/bi.png"
 import sqlnn from "../../images/sqlnn.svg"
 import oracle from "../../images/oracle.png"
 import mspp from "../../images/mspp.png"
 import pysliqlor from "../../images/pysliqlor.jpg"
+import Chat from "../../images/chatgpt.png"
+import vs from "../../images/vscode.svg"
+import netlify from "../../images/netlify.png"
 
 export const Bio = {
     name: "Utsav Raj",
@@ -46,7 +49,7 @@ export const Bio = {
       "Data Entry Operator",
     ],
     description:
-      "I am an Enthusiastic learner with a keen interest in Analysis. As a dedicated and motivated individual, I am eager to start my career and take it to new heights with my continuous learning behaviour and positive attitude. I thrive in challenging and ever changing business environments and have the ability to adapt and evolve as necessary.",
+      "I am an enthusiastic learner with a keen interest in Analysis. As a dedicated and motivated individual, I am eager to start my career and take it to new heights with my continuous learning behaviour and positive attitude. I thrive in challenging and ever-changing business environments and have the ability to adapt and evolve as necessary. I'm ready to make a significant impact as a data analyst or similar role.",
     github: "https://github.com/iamutsavraj",
     resume:
       "https://drive.google.com/file/d/1XSn5vRGKRR3T_9fUX3Iy9zeQ5fRKL33I/view?usp=drive_link",
@@ -55,7 +58,7 @@ export const Bio = {
     insta: "https://www.instagram.com/iamutsavraj/",
     gmail: "https://twitter.com/iamutsavraj",
   };
-  
+
   export const skills = [
     
     {
@@ -70,22 +73,18 @@ export const Bio = {
           image: msex,
         },
         {
-          name: "Google Sheet",
-          image: gs,
+          name: "MS Power Point",
+          image: mspp,
         },
         {
           name: "Microsoft Word",
           image: msw,
         },
-        {
-          name: "MS Power Point",
-          image: mspp,
-        },
       ],
     },
     
     {
-      title: "Programming Language & Databases",
+      title: "Language & Databases",
       skills: [
         {
           name: "Python",
@@ -96,12 +95,33 @@ export const Bio = {
           image: sqlnn,
         },
         {
+          name: "Oracle",
+          image: oracle,
+        },
+        {
           name: "Postgresql",
           image: psql,
         },
         {
-          name: "Oracle",
-          image: oracle,
+          name: "Microsoft SQL Sever",
+          image: gs,
+        },
+      ],
+    },
+    {
+      title: "Others",
+      skills: [
+        {
+          name: "ChatGPT",
+          image: Chat,
+        },
+        {
+          name: "VS Code",
+          image: vs,
+        },
+        {
+          name: "Netlify",
+          image: netlify,
         },
       ],
     },
@@ -172,7 +192,7 @@ export const Bio = {
       role: "Data Analyst Intern",
       company: "MeriSkill",
       date: "Oct 2023 - Nov 2023",
-      desc: "Sales Data Analysis: Analyze sales data to identify trends, top-selling products, and revenue metrics such as total sales  and profit margins, and created visualization for business decision- making.\n\n  HR Analytics: Analyzed employes data to visualize data such as marital status, job role, gender, education field,  department, working year etc. to optimize talent management and organizational performance.",
+      desc: "Sales Data Analysis: Analyzed sales data to identify trends, top-selling products, and revenue metrics such as total sales  and profit margins, and created visualization for business decision- making.\n\n  HR Analytics: Analyzed employes data to visualize data such as marital status, job role, gender, education field,  department, working year etc. to optimize talent management and organizational performance.",
       skills: [
         "Data Visualization",
         "Power BI Dashboards",
@@ -221,7 +241,7 @@ export const Bio = {
       title: "Diversion & Inculsion Dashboard ",
       date: "Jan 2024",
       description:
-        "Completed this project during the PwC Power BI Virtual Case Experience on Forage. Created visualizations to represent HR data, particularly focusing on gender-related KPIs. dentify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level. Defined proper KPIs: # of men, # of women, # of leavers% employees promoted (FY21), % of women promoted, % of hires men, % of hires women, % turnover, #Average performance rating: men, #Average Performance rating: women",
+        "I have completed this project during the PwC Power BI Virtual Case Experience on Forage. Created visualizations to represent HR data, particularly focusing on gender-related KPIs. Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level. Defined proper KPIs: # of men, # of women, # of leavers% employees promoted (FY21), % of women promoted, % of hires men, % of hires women, % turnover, #Average performance rating: men, #Average Performance rating: women",
       image:dij,
       tags: [
         "Power BI Desktop",
@@ -235,14 +255,14 @@ export const Bio = {
       category: "Power BI",
       github: "https://github.com/iamutsavraj/Coding-Samurai-Internship-Task-Employee-Attrition",
       pdf: dip,
-      pre: "https://www.linkedin.com/posts/iamutsavraj_powerbi-dataanalysis-pwcindia-activity-7152184596204261376-MKcZ?utm_source=share&utm_medium=member_desktop",
+      pre: "https://www.novypro.com/project/diversity--inculsion-dashboard",
     },
     {
       id: 1,
       title: "Unemployment Rate Analysis in India During COVID- 19",
       date: "Dec 2023",
       description:
-        "Analyzed the unemployment rate in India during COVID- 19 and to identify unemployment rate by states, year & month, area (rural or urban); and average employed people by states and areas. Analyzed the unemployment rate as well as average employed people in each state to identified which state has suffered the most during COVID – 19.",
+        "Analyzed the unemployment rate in India during COVID- 19 and identify unemployment rate by states, year & month, area (rural or urban); and average employed people by states and areas. Analyzed the unemployment rate as well as average employed people in each state to identified which state has suffered the most during COVID – 19.",
       image:umempj,
       tags: [
         "Power BI Desktop",
@@ -256,14 +276,14 @@ export const Bio = {
       category: "Power BI",
       github: "https://github.com/iamutsavraj/Unemployement-In-India-during-COVID19-PowerBI-Project",
       pdf: unempp,
-      pre: "https://www.linkedin.com/posts/iamutsavraj_dataanalysis-internshipexperience-unemploymenttrends-activity-7136757348487901184-TOWr?utm_source=share&utm_medium=member_desktop",
+      pre: "https://www.novypro.com/project/unemployment-in-india-during-covid-19-dashboard",
     },
     {
       id: 0,
       title: "Call Centre Analysis",
       date: "Dec 2023",
       description:
-        "Completed this project during the PwC Power BI Virtual Case Experience on Forage. Created a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided. Respond the client’s request by providing a well- design Power BI dashboard reflecting the requested KPIs.",
+        "I have completed this project during the PwC Power BI Virtual Case Experience on Forage. Created a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided. Respond the client’s request by providing a well- design Power BI dashboard reflecting the requested KPIs.",
       image:callcentrej,
       tags: [
         "Power BI Desktop",
@@ -276,7 +296,7 @@ export const Bio = {
       category: "Power BI",
       github: "https://github.com/iamutsavraj/Call-Centre-Analysis-PwC-PowerBI-Project",
       pdf: callcentrep,
-      pre: "https://www.linkedin.com/posts/iamutsavraj_pwc-forage-powerbi-activity-7139473102270373888-QqqI?utm_source=share&utm_medium=member_desktop",
+      pre: "https://www.novypro.com/project/pwc---call-centre-analysis-1",
     },
     {
       id: 2,
@@ -297,14 +317,14 @@ export const Bio = {
       category: "Power BI",
       github: "https://github.com/iamutsavraj/Customer-Retention-PwC-PowerBI-Project",
       pdf: crp,
-      pre: "https://www.linkedin.com/posts/iamutsavraj_forage-datavisualization-pwc-activity-7141753510643052544-XDol?utm_source=share&utm_medium=member_desktop",
+      pre: "https://www.novypro.com/project/customer-retention-dashboard-10",
     },
     {
       id: 3,
       title: "Employee Attrition Analysis",
       date: "Nov 2023",
       description:
-        "Analyzed employee data to understand the factors that contribute to employee attrition and identifying the root cause that can help in retention effort.",
+        "In this project I have analyzed employee data to understand the factors that contribute to employee attrition and identified the root cause that can help in retention effort.",
       image:eaj,
       tags: [
         "Power BI Desktop",
@@ -318,7 +338,7 @@ export const Bio = {
       category: "Power BI",
       github: "https://github.com/iamutsavraj/Coding-Samurai-Internship-Task-Employee-Attrition",
       pdf: eap,
-      pre: "https://www.linkedin.com/posts/iamutsavraj_codingsamurai-businessanalytics-dataanalytics-activity-7134883590185623552-0Joq?utm_source=share&utm_medium=member_desktop",
+      pre: "https://www.novypro.com/project/employee-attrition-dashboard-5",
     },
     {
       id: 7,
@@ -363,7 +383,7 @@ export const Bio = {
       title: "Sales Data Analysis",
       date: "Oct 2023",
       description:
-        "I have completed this task during my Data Analytic internship at MeriSKILL. In this project I haveanalyzed sales data to identify trends, top-selling products, and revenue metrics such as total sales and profit margins, and created visualization for business decision- making.",
+        "I have completed this task during my Data Analytic internship at MeriSKILL. In this project I have analyzed sales data to identify trends, top-selling products, and revenue metrics such as total sales and profit margins, and created visualization for business decision- making.",
       image:sdj,
       tags: [
         "Power BI Desktop",
@@ -377,7 +397,7 @@ export const Bio = {
       category: "Power BI",
       github: "https://github.com/iamutsavraj/MeriSkill_internship_task/tree/main",
       pdf: sdp,
-      pre: "https://www.linkedin.com/posts/iamutsavraj_dataanalysis-powerbi-internshipexperience-activity-7127136037155319808-JtEx?utm_source=share&utm_medium=member_desktop",
+      pre: "https://www.novypro.com/project/sales-data-dashboard-4",
     },
     {
       id: 5,
@@ -398,7 +418,7 @@ export const Bio = {
       category: "Power BI",
       github: "https://github.com/iamutsavraj/MeriSkill_internship_task/tree/main",
       pdf: hrp,
-      pre: "https://www.linkedin.com/posts/iamutsavraj_dataanalytics-hranalytics-powerbi-activity-7127603430805676032-iPGM?utm_source=share&utm_medium=member_desktop",
+      pre: "https://www.novypro.com/project/hr-analytics-dashboard-274",
     },
     
     
