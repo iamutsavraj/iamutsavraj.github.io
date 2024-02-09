@@ -39,6 +39,10 @@ import pysliqlor from "../../images/pysliqlor.jpg"
 import Chat from "../../images/chatgpt.png"
 import vs from "../../images/vscode.svg"
 import netlify from "../../images/netlify.png"
+import cognifyzlogo from "../../images/cognifyzlogo.jpeg"
+import cognifyzj from "../../images/cognifyzj.jpg"
+import rj from "../../images/rj.jpg"
+import rap from "../../images/rap.pdf"
 
 export const Bio = {
     name: "Utsav Raj",
@@ -130,16 +134,18 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: psyliqlog,
-      role: "Python R Intern",
-      company: "Pysliq",
-      date: "Jan 2024 - Present",
-      desc: " Currently working at psyliq as Python intern, doing intership tasks.",
+      img: cognifyzlogo,
+      role: "Data Analyst Intern",
+      company: "Cognifyz",
+      date: "Jan 2024 - Feb 2024",
+      desc: " Analyzed restaurant trends, cuisines, city data, prices, delivery, ratings, reviews, and geographic patterns in internship.",
       skills: [
-        "Python",
-        "Programming Language",
-        "Dynamic Language",
+        "Data Analysis",
+        "Power BI",
+        "Data Visualization",
+        "Data Cleaning",
       ],
+      doc:cognifyzj
     },
     {
       id: 0,
@@ -197,8 +203,7 @@ export const Bio = {
         "Data Visualization",
         "Power BI Dashboards",
         "Statistics",
-        "Data Cleaning",
-        
+        "Data Cleaning", 
       ],
       doc: Meriskill1,
       
@@ -209,7 +214,7 @@ export const Bio = {
     {
       id: 0,
       img: Hnb,
-      school: "Hemvati Nandan Bahuguna Garhwal University (A Central University), Dehradun",
+      school: "HNB Garhwal University (A Central University), Dehradun",
       date: "Jun 2020 - Oct 2023",
       grade: "7.24 CGPA",
       desc: "I recently graduated from HNB Garhwal University with a passion for exploring the realms of Data Analytics and Business Analytics. Leveraging my strong foundation in mathematics & statistics, I am actively engaged in deep analysis to extract meaningful insights. My academic journey has equipped me with the skills and knowledge needed to navigate the dynamic landscape of analytics, and I am committed to continuous learning and growth in these fields.",
@@ -229,7 +234,7 @@ export const Bio = {
       img: school,
       school: "Constancia School, Dehradun",
       date: "Mar 2017 - Mar 2018",
-      grade: "83.33%",
+      grade: "83.17%",
       desc: "I have completed High school from Constancia School, Dehradun where I studied Science with Computer Application.",
       degree: "ICSC(X), Science with Computer Application",
     },
@@ -238,24 +243,22 @@ export const Bio = {
   export const projects = [
     {
       id: 3,
-      title: "Diversion & Inculsion Dashboard ",
+      title: "Restaurant Analysis ",
       date: "Jan 2024",
       description:
-        "I have completed this project during the PwC Power BI Virtual Case Experience on Forage. Created visualizations to represent HR data, particularly focusing on gender-related KPIs. Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level. Defined proper KPIs: # of men, # of women, # of leavers% employees promoted (FY21), % of women promoted, % of hires men, % of hires women, % turnover, #Average performance rating: men, #Average Performance rating: women",
-      image:dij,
+        "I have completed this project during my data analysis internship at Cognifyz. In this project I have analyzed various trends, top cuisines, city analysis, price range distribution, online delivery, restaurant ratings, cuisines combination, geographic analysis, restaurant chains, restaurant reviews, vote analysis, Price Range vs. Online Delivery and Table Booking.",
+      image:rj,
       tags: [
         "Power BI Desktop",
         "KPIs",
         "Data Cleaning",
-        "Attrition",
-        "DAX",
         "Dashboard",
        
       ],
       category: "Power BI",
-      github: "https://github.com/iamutsavraj/Coding-Samurai-Internship-Task-Employee-Attrition",
-      pdf: dip,
-      pre: "https://www.novypro.com/project/diversity--inculsion-dashboard",
+      github: "https://github.com/iamutsavraj/Restaurant-analysis-cognifyz-internship-tasks",
+      pdf: rap,
+      pre: "https://www.novypro.com/project/restaurant-analysis-5",
     },
     {
       id: 1,
@@ -277,6 +280,27 @@ export const Bio = {
       github: "https://github.com/iamutsavraj/Unemployement-In-India-during-COVID19-PowerBI-Project",
       pdf: unempp,
       pre: "https://www.novypro.com/project/unemployment-in-india-during-covid-19-dashboard",
+    },
+    {
+      id: 3,
+      title: "Diversion & Inculsion Dashboard ",
+      date: "Jan 2024",
+      description:
+        "I have completed this project during the PwC Power BI Virtual Case Experience on Forage. Created visualizations to represent HR data, particularly focusing on gender-related KPIs. Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level. Defined proper KPIs: # of men, # of women, # of leavers% employees promoted (FY21), % of women promoted, % of hires men, % of hires women, % turnover, #Average performance rating: men, #Average Performance rating: women",
+      image:dij,
+      tags: [
+        "Power BI Desktop",
+        "KPIs",
+        "Data Cleaning",
+        "Attrition",
+        "DAX",
+        "Dashboard",
+       
+      ],
+      category: "Power BI",
+      github: "https://github.com/iamutsavraj/Coding-Samurai-Internship-Task-Employee-Attrition",
+      pdf: dip,
+      pre: "https://www.novypro.com/project/diversity--inculsion-dashboard",
     },
     {
       id: 0,
