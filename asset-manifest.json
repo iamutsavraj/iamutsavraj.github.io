@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.7e6fdba6.js",
-    "static/media/p6.png": "/static/media/p6.4c4db707a858bf3b648b.png",
+    "main.js": "/static/js/main.691538b5.js",
+    "static/media/rap.pdf": "/static/media/rap.d7b5a1c9aa8119f40314.pdf",
     "static/media/unempj.jpg": "/static/media/unempj.5033060d3d7e8496840e.jpg",
     "static/media/pmj.jpg": "/static/media/pmj.18778e3ca48e0b4b90ef.jpg",
     "static/media/pmp.pdf": "/static/media/pmp.af01e65eafa9233622ea.pdf",
     "static/media/hap.pdf": "/static/media/hap.e982ec5b05011eca4f8a.pdf",
     "static/media/crp.pdf": "/static/media/crp.f534c4cfe28762e41dde.pdf",
     "static/media/sdj.jpg": "/static/media/sdj.f2ea4350f0cc70c490e1.jpg",
+    "static/media/test1.png": "/static/media/test1.a9101b9361890ec4baca.png",
     "static/media/eap.pdf": "/static/media/eap.e5e73980a23bb8c43309.pdf",
     "static/media/crj.jpg": "/static/media/crj.17133b4c310334e2603a.jpg",
+    "static/media/cognifyzj.jpg": "/static/media/cognifyzj.897f00fd234a02fe605d.jpg",
     "static/media/CognoRise.jpg": "/static/media/CognoRise.3412e8be4ec47e7ac84d.jpg",
     "static/media/dij.jpg": "/static/media/dij.5e59c3d7e810a4047f45.jpg",
     "static/media/hrj.jpg": "/static/media/hrj.914dddbd61104ccb6638.jpg",
@@ -22,6 +24,7 @@
     "static/media/Codingsamurai.jpg": "/static/media/Codingsamurai.c6852c1e4693c0f99d91.jpg",
     "static/media/Meriskill1.jpg": "/static/media/Meriskill1.d482b9e00416ffa04244.jpg",
     "static/media/dip.pdf": "/static/media/dip.6eaa0aaabaf6e68abd80.pdf",
+    "static/media/rj.jpg": "/static/media/rj.3b3f13ed64176d848e19.jpg",
     "static/media/haj.jpg": "/static/media/haj.59e50cbaa7d5aa7b8ff1.jpg",
     "static/media/callcentrep.pdf": "/static/media/callcentrep.22948293bc3adcea746b.pdf",
     "static/media/sdp.pdf": "/static/media/sdp.a22f30dae302e5f66301.pdf",
@@ -41,10 +44,10 @@
     "static/media/vscode.svg": "/static/media/vscode.5f6c87ee85944898b6682f2a2a13df91.svg",
     "index.html": "/index.html",
     "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.7e6fdba6.js.map": "/static/js/main.7e6fdba6.js.map"
+    "main.691538b5.js.map": "/static/js/main.691538b5.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.7e6fdba6.js"
+    "static/js/main.691538b5.js"
   ]
 }
